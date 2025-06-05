@@ -18,7 +18,7 @@ I'm a Computer Science undergraduate passionate about coding and cloud computing
   - Studying the core AWS services like EC2, S3, and RDS to build and manage cloud infrastructure.
   - Gearing up for AWS certifications to validate my skills and knowledge in cloud technologies.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with HTML,CSS,JavaScript and PHP.
+  - Building server-side applications with HTML,CSS,JavaScript,React and PHP.
   - Diving into SQL for efficient and scalable database management.
 
 
