@@ -11,7 +11,7 @@ I'm a Computer Science undergraduate passionate about coding and cloud computing
 - 😄 Fun fact: My code lives in the cloud, because it deserves a sky-high view!
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=aws,js,html,css,cs,mysql,php,py,nodejs,nextjs,npm,postman,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,php,laravel,py,tailwind,react,nodejs,nextjs,npm,aws,mysql,postman,git,github,bitbucket,figma)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
