@@ -24,7 +24,7 @@ I'm a Computer Science undergraduate passionate about coding and cloud computing
 
 ## 📬 Get in Touch
 
-- Connect with me on [Linkedin](www.linkedin.com/in/naduni-saubhagya-36246424a)
+- Connect with me on [Linkedin] www.linkedin.com/in/naduni-saubhagya-36246424a
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
