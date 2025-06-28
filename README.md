@@ -2,7 +2,7 @@
 
 I'm a Computer Science undergraduate passionate about coding and cloud computing. I'm excited to share my journey and contribute to the open-source community.
 
-![087ns's Stats](https://github-readme-stats.vercel.app/api?username=087ns&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![naduni-s's Stats](https://github-readme-stats.vercel.app/api?username=naduni-s&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
