@@ -3,8 +3,6 @@
 I'm a Computer Science undergraduate passionate about coding and cloud computing. I'm excited to share my journey and contribute to the open-source community.
 
 ![naduni-s's Stats](https://github-readme-stats.vercel.app/api?username=naduni-s&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&cache_seconds=60)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naduni-s&layout=compact&theme=vue-dark)
 
 ## 🚀 About Me
 
@@ -14,6 +12,8 @@ I'm a Computer Science undergraduate passionate about coding and cloud computing
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,php,laravel,py,tailwind,react,nodejs,nextjs,npm,aws,mysql,postman,git,github,bitbucket,figma)](https://skillicons.dev)
+##
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naduni-s&layout=compact&theme=vue-dark)
 
 ## 🌱 Currently Exploring
 
